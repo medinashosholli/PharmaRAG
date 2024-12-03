@@ -1,2 +1,2 @@
 # PharmaRAG
-Drugs Browser
+Drugs, conditions, and symptoms browser.
